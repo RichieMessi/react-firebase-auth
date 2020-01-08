@@ -31,3 +31,31 @@
     transform: rotate(360deg);
   }
 }
+
+/* nav {
+  position: relative;
+} */
+
+nav .notification {
+  margin-right: 3px !important;
+  padding-right: 0;
+}
+nav .badge {
+  margin-top: 1.5rem;
+  margin-left: 0;
+}
+
+
+form {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  padding-bottom: 4rem;
+}
+
+form h5 {
+  margin-bottom: 3rem;
+}
+
+form .x {
+  margin-top: 2rem;
+}
